@@ -10,7 +10,7 @@ My name is Andreas a.k.a. ⛰️ skoms, and I'm a Fullstack JavaScript Bootcamp 
 
 ## 📘 Side Project
 
-<img src='https://github.com/skoms/researchers-refuge/raw/main/public/RR_BANNER.png' height='60' />
+<a href='https://www.github.com/skoms/researchers-refuge'><img src='https://github.com/skoms/researchers-refuge/raw/main/public/RR_BANNER.png' height='60' /></a>
 
 I've been working many hours a day for 3 months on this awesome social media project, <a href='https://www.github.com/skoms/researchers-refuge'>Researcher's Refuge</a>. I am and have been learning so much through this project, and you can read all about it there, conveniently in its `README.md` 😄
 
