@@ -2,8 +2,6 @@
 
 My name is Andreas a.k.a. ⛰️ skoms, and I'm a Fullstack JavaScript Bootcamp graduate working on my programming and looking for a junior developer position!
 
-<br/>
-
 ### My current Tech Stack
 
 Front-End:
@@ -12,37 +10,44 @@ Front-End:
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
     height='28'
-    alt='React'  
+    alt='React'
+    title='React'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 
     height='28'
-    alt='redux'
+    alt='Redux'
+    title='Redux'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" 
     height='28'
-    alt='jest'
+    alt='Jest'
+    title='Jest'
   />
   <img 
     src='https://testing-library.com/img/octopus-128x128.png'
     height='28'
     alt='React Testing Library'
+    title='React Testing Library'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
     height='28'
     alt='JavaScript'
+    title='JavaScript'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
     height='28'  
-    alt='HTML'
+    alt='HTML'  
+    title='HTML'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
     height='28' 
-    alt='CSS' 
+    alt='CSS'   
+    title='CSS'
   />
 </div>
 Back-End: 
@@ -51,23 +56,29 @@ Back-End:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
     height='28'
     alt='PostgreSQL'
+    title='PostgreSQL'
   />
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
+    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackersandslackers-cdn.storage.googleapis.com%2F2020%2F05%2Fexpress.png&f=1&nofb=1" 
     height='28' 
-    style='background-color: white; padding: 0 3px; border-radius: 20%;' 
+    width='28'
+    style='border-radius: 50%;' 
     alt='Express'
+    title='Express'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" 
     height='28'
     alt='Node.js'
+    title='Node.js'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" 
     height='28'
     alt='Sequelize'
+    title='Sequelize'
   />
+
 </div>
 Other: 
 <div>
@@ -75,16 +86,19 @@ Other:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
     height='28'
     alt='git'
+    title='git'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
     height='28'
     alt='VSCode'
+    title='VSCode'
   />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
     height='28'
     alt='Windows'
+    title='Windows'
   />
 </div>
 
