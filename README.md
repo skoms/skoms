@@ -12,15 +12,15 @@ My name is Andreas a.k.a. ⛰️ skoms, and I'm a Fullstack JavaScript Bootcamp 
 
 ## ⚙️ Familiarity with:
 
-| Front-End                                                                                                                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='28' alt='angular' title='Angular' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height='28' alt='Ionic' title='Ionic' /> |
+| Front-End                                                                                                                                                                                                                                                                   | Back-End                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='28' alt='angular' title='Angular' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height='28' alt='Ionic' title='Ionic' /> | <img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.codebind.com%2Fwp-content%2Fuploads%2F2016%2F09%2FSQLite-300x193.jpg&f=1&nofb=1' height='28' alt='SQLite3' title='SQLite3'> |
 
 ## 📘 Side Project
 
 <a href='https://www.github.com/skoms/researchers-refuge'> <img src='https://github.com/skoms/researchers-refuge/raw/main/public/RR_BANNER.png' height='60' /> </a>
 
-I've been working many hours a day for 3 months on this awesome social media project, <a href='https://www.github.com/skoms/researchers-refuge'>Researcher's Refuge</a>. I am and have been learning so much through this project, and you can read all about it there, conveniently in its `README.md` 😄
+I've worked many hours a day for about 3 months on this awesome social media project, <a href='https://www.github.com/skoms/researchers-refuge'>Researcher's Refuge</a>. I have been learning so much through this project, and you can read all about it there, conveniently in its `README.md` 😄
 
 ## ☎️ How To Reach Me
 
