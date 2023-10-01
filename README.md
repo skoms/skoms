@@ -1,8 +1,12 @@
+#### _This page is currently out of date and no longer maintained, check out account bound to work for activity_
+
 ### Hi there 👋
 
-My name is Andreas a.k.a. ⛰️ skoms, and I'm a Fullstack JavaScript Bootcamp graduate working on my programming and while preparing to start as a Front End Web Engineer at Yoobic in the start of next year!
+My name is Andreas a.k.a. ⛰️ skoms, and I'm a Fullstack JavaScript Bootcamp graduate and bachelor's degree holder in Business Chinese working as a Frontend Developer since start of 2022! This account is no longer active as I am using the work account I was given.
 
-You can find my [portfolio here](https://skoms-portfolio.netlify.app/)! 😄
+[Work Account](https://github.com/askomsoey)
+
+You can find my (outdated) [portfolio here](https://skoms-portfolio.netlify.app/)! 😄
 
 ## ⚙️ My Current Tech Stack
 
@@ -10,7 +14,7 @@ You can find my [portfolio here](https://skoms-portfolio.netlify.app/)! 😄
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <div> <img src="./public/icons/react/react-original.svg" height='28' alt='React' title='React'/> <img src="./public/icons/redux/redux-original.svg" height='28' alt='Redux' title='Redux'/> <img src="./public/icons/jest/jest-plain.svg" height='28' alt='Jest' title='Jest'/> <img src='./public/images/react-testing-library-icon.png' height='28' alt='React Testing Library' title='React Testing Library'/> <img height='28' alt='typescript' title='TypeScript' src="./public/icons/typescript/typescript-original.svg" /> <img src="./public/icons/javascript/javascript-original.svg" height='28' alt='JavaScript' title='JavaScript'/> <img src="./public/icons/html5/html5-original.svg" height='28' alt='HTML' title='HTML'/> <img src="./public/icons/css3/css3-original.svg" height='28' alt='CSS' title='CSS'/> </div> | <div> <img src="./public/icons/postgresql/postgresql-original.svg" height='28' alt='PostgreSQL' title='PostgreSQL'/> <img src="./public/images/expressjs-icon.png" height='28' width='28' style='border-radius: 50%;' alt='Express' title='Express'/> <img src="./public/icons/nodejs/nodejs-plain.svg" height='28' alt='Node.js' title='Node.js'/> <img src="./public/icons/sequelize/sequelize-original.svg" height='28' alt='Sequelize' title='Sequelize'/> </div> | <div> <img src="./public/icons/git/git-original.svg" height='28' alt='git' title='git'/> <img src="./public/icons/vscode/vscode-original.svg" height='28' alt='VSCode' title='VSCode'/> <img src="./public/icons/windows8/windows8-original.svg" height='28' alt='Windows' title='Windows'/> </div> |
 
-## ⚙️ Current learning focus:
+## ⚙️ Current work stack:
 
 | Front-End                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,11 +30,11 @@ You can find my [portfolio here](https://skoms-portfolio.netlify.app/)! 😄
 
 <a href='https://www.github.com/skoms/researchers-refuge'> <img src='https://github.com/skoms/researchers-refuge/raw/main/public/RR_BANNER.png' height='60' /> </a>
 
-I've worked many hours a day for about 3 months on this awesome social media project, <a href='https://www.github.com/skoms/researchers-refuge'>Researcher's Refuge</a>. I have been learning so much through this project, and you can read all about it there, conveniently in its `README.md` 😄
+I worked many hours a day for about 3 months on this awesome social media project, <a href='https://www.github.com/skoms/researchers-refuge'>Researcher's Refuge</a>. I have been learning so much through this project, and you can read all about it there, conveniently in its `README.md` 😄 It was the first major project I worked on but is currently outdated, only for display purposes, check out the respective repositories for more info.
 
 ## ☎️ How To Reach Me
 
-You can reach me through <a href='https://www.linkedin.com/in/andreas-skoms%C3%B8y-01a027188/'>LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='12' /> </a> or preferrably by 📧E-Mail: andrew.m.s.97@hotmail.com. The latter being checked more frequently.
+You can reach me through <a href='https://www.linkedin.com/in/andreas-skoms%C3%B8y-01a027188/'>LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='12' /> </a>.
 
 <!--
 **skoms/skoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
